@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a test app created to learn Flutter. The app will take in patient information and create a profile for them. The idea is to make an app that holds a patient's medical information.
 
 A few resources to get you started if this is your first Flutter project:
 
